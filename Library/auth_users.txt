@@ -1,0 +1,5 @@
+user_name       password    role
+arash_kh        123456      user
+ali_mh          654321      operator
+fatemeh_pn      111111      user
+kazem_lk        020202      user
