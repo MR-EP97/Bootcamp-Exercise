@@ -1,0 +1,3 @@
+national_id          book          status          
+33214569          Physics          1          
+123          yyy          1          
